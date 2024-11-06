@@ -1,0 +1,2 @@
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIJCRQx1MLfxMxcvqSQUxQpupohQJxtRrDQp8I+heafpn student@hex-m34
+keys
